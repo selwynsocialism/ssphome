@@ -2,11 +2,17 @@ img {
     width: 200px;
     height: 200px;
 }
+header {
+    background: lightblue;
+    padding: 10px;
+    text-align: left;
+    font-family: "ABeeZee", sans-serif;
+}
 body {
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
     background: azure;
     color: blue;
+    font-family: "ABeeZee", sans-serif;
 }
 footer {
     background: lightblue;
@@ -14,4 +20,16 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    font-family: "ABeeZee", sans-serif;
+}
+.abeezee-regular {
+  font-family: "ABeeZee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.abeezee-regular-italic {
+  font-family: "ABeeZee", sans-serif;
+  font-weight: 400;
+  font-style: italic;
 }
