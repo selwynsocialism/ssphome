@@ -33,3 +33,17 @@ footer {
   font-weight: 400;
   font-style: italic;
 }
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background-color: azure;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  font-family: "ABeeZee", sans-serif;
+  border-radius: 8px;
+}
