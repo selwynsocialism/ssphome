@@ -3,24 +3,24 @@ img {
     height: 200px;
 }
 header {
-    background: yellow;
+    background: red;
     padding: 10px;
     text-align: left;
-    color: red;
+    color: yellow;
     font-family: "ABeeZee", sans-serif;
 }
 body {
     text-align: center;
-    background: red;
-    color: yellow;
+    background: black;
+    color: white;
     font-family: "ABeeZee", sans-serif;
 }
 footer {
-    background: yellow;
+    background: red;
     padding: 10px;
     position: fixed;
     bottom: 0;
-        color: red;
+        color: yellow;
     width: 100%;
     font-family: "ABeeZee", sans-serif;
 }
