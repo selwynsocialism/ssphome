@@ -16,7 +16,7 @@ body {
     font-family: "ABeeZee", sans-serif;
 }
 footer {
-    background: red;
+    background: rgb(238, 28, 37);
     padding: 10px;
     position: fixed;
     bottom: 0;
