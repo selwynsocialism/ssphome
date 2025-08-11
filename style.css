@@ -6,12 +6,13 @@ header {
     background: yellow;
     padding: 10px;
     text-align: left;
+    color: red;
     font-family: "ABeeZee", sans-serif;
 }
 body {
     text-align: center;
     background: red;
-    color: blue;
+    color: yellow;
     font-family: "ABeeZee", sans-serif;
 }
 footer {
@@ -19,6 +20,7 @@ footer {
     padding: 10px;
     position: fixed;
     bottom: 0;
+        color: red;
     width: 100%;
     font-family: "ABeeZee", sans-serif;
 }
